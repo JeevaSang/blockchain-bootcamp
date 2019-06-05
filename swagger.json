@@ -5,7 +5,7 @@
 		"description": "This is a sample Rest API for fabric .",
 		"version": "1.0.0",
 		"contact": {
-			"name": "Hyperledger Team",
+			"name": "Hyperledger Team"
 		}
 	},
 	"host": "localhost:8080",
